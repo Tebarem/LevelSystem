@@ -9,3 +9,8 @@ Make sure you make a logs folder so that the console logs any errors/stuff you n
 # Console.py
 Instead of using print() use self.out() [in level.py] 
 It is just a simple TUI. Type in stop to stop everything 
+
+# Contact
+discord elpupper#5712
+
+If you use this let me know (its free but i am just curious)
